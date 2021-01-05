@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/vladimirbalin/game_js_prac",
+  "homepage": "https://vladimirbalin.github.io/game_js_prac",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
